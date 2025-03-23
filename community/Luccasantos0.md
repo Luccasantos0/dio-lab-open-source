@@ -1,4 +1,4 @@
-# Lucca
+# Luccas
 Olá!
 
 ## Conecte-se comigo
